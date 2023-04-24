@@ -1,0 +1,2 @@
+# descomplica
+Exercicio faculdade descomplica
